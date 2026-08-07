@@ -40,6 +40,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -48,11 +49,13 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0004-median-of-two-sorted-arrays](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +87,12 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
