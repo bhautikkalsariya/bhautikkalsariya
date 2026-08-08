@@ -36,6 +36,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -107,4 +109,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
