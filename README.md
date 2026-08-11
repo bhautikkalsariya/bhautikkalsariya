@@ -89,6 +89,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 ## Backtracking
