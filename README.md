@@ -57,6 +57,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0001-two-sum](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
@@ -70,6 +71,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
@@ -151,4 +153,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
