@@ -61,6 +61,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0001-two-sum](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
@@ -162,6 +164,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 ## Pigeonhole Principle
 |  |
 | ------- |
