@@ -62,6 +62,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
@@ -169,4 +170,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
