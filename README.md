@@ -63,6 +63,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -178,6 +180,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 ## Quicksort
 |  |
