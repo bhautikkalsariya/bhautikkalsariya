@@ -58,6 +58,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0001-two-sum](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
@@ -138,6 +139,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0125-valid-palindrome) |
