@@ -46,6 +46,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
@@ -136,6 +138,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
@@ -174,4 +177,12 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
