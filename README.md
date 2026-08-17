@@ -37,6 +37,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
@@ -122,6 +123,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0060-permutation-sequence) |
 ## Counting
 |  |
 | ------- |
