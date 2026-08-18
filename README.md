@@ -49,6 +49,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0056-merge-intervals](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -149,6 +151,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0031-next-permutation](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
