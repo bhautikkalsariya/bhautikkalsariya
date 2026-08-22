@@ -43,6 +43,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
