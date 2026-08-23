@@ -37,6 +37,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
@@ -67,6 +68,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
@@ -181,6 +183,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 ## Pigeonhole Principle
 |  |
