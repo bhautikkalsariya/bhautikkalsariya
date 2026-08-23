@@ -113,6 +113,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
@@ -133,6 +134,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0060-permutation-sequence) |
