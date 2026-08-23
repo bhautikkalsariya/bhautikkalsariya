@@ -117,6 +117,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 ## Backtracking
 |  |
