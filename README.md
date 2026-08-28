@@ -122,6 +122,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
