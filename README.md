@@ -36,6 +36,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0050-powx-n) |
@@ -114,6 +115,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0023-merge-k-sorted-lists) |
@@ -136,6 +138,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0050-powx-n) |
