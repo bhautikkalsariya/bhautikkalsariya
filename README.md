@@ -86,6 +86,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0485-max-consecutive-ones) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
