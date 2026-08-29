@@ -162,6 +162,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -175,6 +176,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
