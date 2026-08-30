@@ -77,6 +77,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
@@ -198,6 +199,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
@@ -223,6 +225,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Quicksort
