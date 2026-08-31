@@ -11,25 +11,47 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head) return NULL;
-        ListNode* temp=head;
-        vector<int> arr;
-        while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp=temp->next;
-        }
-        for(int i=0;i<arr.size()-1;i+=k){
-           if(i+k<=arr.size()){
-            reverse(arr.begin()+i,arr.begin()+i+k);
-           }
-        }
-        ListNode* curr=new ListNode(arr[0]);
-        ListNode* tem=curr;
-        for(int i=1;i<arr.size();i++){
-            tem->next=new ListNode(arr[i]);
-            tem=tem->next;
-        }
+        if (head == NULL || k == 1)
+            return head;
 
-        return curr; 
+        ListNode dummy(0);
+        dummy.next = head;
+
+        ListNode* prev = &dummy;
+
+        while (true) {
+            // Find the kth node
+            ListNode* kth = prev;
+
+            for (int i = 0; i < k; i++) {
+                kth = kth->next;
+
+                // Less than k nodes remaining
+                if (kth == NULL)
+                    return dummy.next;
+            }
+
+            // Save the next group
+            ListNode* nextGroup = kth->next;
+
+            // Reverse current group
+            ListNode* curr = prev->next;
+            ListNode* before = nextGroup;
+
+            while (curr != nextGroup) {
+                ListNode* next = curr->next;
+                curr->next = before;
+                before = curr;
+                curr = next;
+            }
+
+            // Connect previous part to reversed group
+            ListNode* oldStart = prev->next;
+            prev->next = kth;
+
+            // oldStart is now the tail of reversed group
+            prev = oldStart;
+        }
+    
     }
 };
