@@ -136,6 +136,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0141-linked-list-cycle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
@@ -159,6 +160,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0050-powx-n](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0160-intersection-of-two-linked-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
@@ -250,4 +253,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
