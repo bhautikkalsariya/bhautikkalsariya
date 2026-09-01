@@ -93,6 +93,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
@@ -111,6 +112,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -267,10 +269,12 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0020-valid-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
