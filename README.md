@@ -73,6 +73,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0031-next-permutation](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0048-rotate-image) |
@@ -189,6 +190,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0086-partition-list) |
@@ -240,6 +242,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
@@ -260,5 +263,10 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
