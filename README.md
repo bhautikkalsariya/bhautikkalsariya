@@ -90,6 +90,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
@@ -112,6 +113,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0160-intersection-of-two-linked-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
@@ -271,6 +273,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
 | ------- |
