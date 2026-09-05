@@ -86,6 +86,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0057-insert-interval](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
@@ -230,6 +231,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0040-combination-sum-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
@@ -240,6 +242,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
