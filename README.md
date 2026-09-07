@@ -108,6 +108,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3903-smallest-stable-index-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3903-smallest-stable-index-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Backtracking
 |  |
 | ------- |
