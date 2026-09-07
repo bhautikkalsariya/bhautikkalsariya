@@ -61,6 +61,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -105,6 +106,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3903-smallest-stable-index-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -227,6 +229,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Backtracking
 |  |
 | ------- |
