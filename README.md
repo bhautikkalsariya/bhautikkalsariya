@@ -104,6 +104,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
+| [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -128,6 +129,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
+| [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
