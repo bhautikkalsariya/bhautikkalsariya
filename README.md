@@ -111,6 +111,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2574-left-and-right-sum-differences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -330,6 +331,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
