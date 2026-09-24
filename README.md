@@ -48,6 +48,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [1323-maximum-69-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -111,6 +112,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
