@@ -50,6 +50,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -334,4 +335,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
