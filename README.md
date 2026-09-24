@@ -45,6 +45,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [1323-maximum-69-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
@@ -66,6 +67,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -107,6 +109,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
