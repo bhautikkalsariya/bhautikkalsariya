@@ -216,6 +216,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0151-reverse-words-in-a-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
@@ -314,6 +315,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0042-trapping-rain-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -323,6 +325,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
 |  |
 | ------- |
