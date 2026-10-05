@@ -111,6 +111,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0485-max-consecutive-ones](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
@@ -354,4 +355,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
