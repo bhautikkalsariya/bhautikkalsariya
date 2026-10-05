@@ -67,6 +67,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0242-valid-anagram](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
@@ -109,6 +110,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
@@ -260,6 +262,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
@@ -347,4 +350,8 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
