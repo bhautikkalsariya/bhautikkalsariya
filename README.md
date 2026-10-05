@@ -113,6 +113,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0565-array-nesting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0665-non-decreasing-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
