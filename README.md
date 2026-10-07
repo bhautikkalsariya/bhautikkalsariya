@@ -119,6 +119,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2574-left-and-right-sum-differences) |
@@ -148,6 +149,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
