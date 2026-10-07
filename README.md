@@ -119,6 +119,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -252,6 +253,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Backtracking
@@ -354,6 +356,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
