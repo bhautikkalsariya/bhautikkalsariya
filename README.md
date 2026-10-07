@@ -231,6 +231,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0925-long-pressed-name](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
@@ -336,6 +337,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0496-next-greater-element-i](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -364,6 +366,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
