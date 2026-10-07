@@ -100,6 +100,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0090-subsets-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0189-rotate-array) |
@@ -301,6 +302,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0152-maximum-product-subarray) |
 ## Quicksort
 |  |
 | ------- |
