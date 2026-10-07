@@ -120,6 +120,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [1089-duplicate-zeros](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2574-left-and-right-sum-differences) |
