@@ -46,6 +46,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
@@ -154,6 +155,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0202-happy-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0925-long-pressed-name) |
