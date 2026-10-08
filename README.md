@@ -104,6 +104,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0090-subsets-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0169-majority-element) |
@@ -287,6 +288,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0881-boats-to-save-people) |
