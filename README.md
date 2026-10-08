@@ -72,6 +72,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0561-array-partition](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0881-boats-to-save-people) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -125,6 +126,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [1207-unique-number-of-occurrences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/2574-left-and-right-sum-differences) |
@@ -193,6 +195,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
