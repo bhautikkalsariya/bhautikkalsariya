@@ -47,6 +47,7 @@ Email Me 👉 ✉️ **bhautikkalsariya29@gmail.com**
 | [0268-missing-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/0728-self-dividing-numbers) |
 | [1323-maximum-69-number](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1323-maximum-69-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/1688-count-of-matches-in-tournament) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhautikkalsariya/bhautikkalsariya/tree/master/3536-maximum-product-of-two-digits) |
