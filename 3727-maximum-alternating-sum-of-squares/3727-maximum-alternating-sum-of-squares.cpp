@@ -8,13 +8,13 @@ public:
         }
         sort(arr.begin(),arr.end());
         int n=arr.size();
-        long long sum1=0,sum2=0;
+        long long sum1=0;
         for(int i=0;i<(n/2);i++){
-            sum1+=(arr[i]*arr[i]);
+            sum1-=(arr[i]*arr[i]);
         }
         for(int i=(n/2);i<(n);i++){
-            sum2+=(arr[i]*arr[i]);
+            sum1+=(arr[i]*arr[i]);
         }
-        return sum2-sum1;
+        return sum1;
     }
 };
